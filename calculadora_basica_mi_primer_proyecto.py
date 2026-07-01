@@ -8,7 +8,7 @@ Original file is located at
 
 #En este notebook comenzaré a desarrollar una calculadora por diversion con el solo fin de aprender.
 
-> Utilizaré tutoriales y otras erramientas que puedan ayudarme. La finalidad de este proyecto es relacionarme con el codigo, aprender y aplicar las pequeñas cosas que he aprendido hasta ahora.
+> Utilizaré tutoriales y otras herramientas que puedan ayudarme. La finalidad de este proyecto es relacionarme con el codigo, aprender y aplicar las pequeñas cosas que he aprendido hasta ahora.
 """
 
 # Calculadora basica.
